@@ -1,6 +1,11 @@
 # SP17
 
-**SP17** is a silly little macropad based on the optimal solution for packing 17 equal squares into the smallest possible bounding box.
+![image](https://github.com/user-attachments/assets/ec1a7d7e-9a86-47c5-8401-d039ced90c2e)
+![image](https://github.com/user-attachments/assets/a09fe58b-1ae0-4ebf-a7f2-b44dd91cff30)
+
+
+
+**SP17** is a silly little macropad inspired on the optimal solution for packing 17 equal squares into the smallest possible bounding square.
 
 Based on the mathematical packing problem: how can you fit a certain amount of unit squares into the smallest possible rectangle? Read more about the packing problem of x squares on https://www.combinatorics.org/files/Surveys/ds7/ds7v5-2009/ds7-2009.html
 
@@ -10,9 +15,11 @@ Based on the mathematical packing problem: how can you fit a certain amount of u
 - MX-compatible, solder only
 - Diodeless
 - Pro Micro footprint
-- Features the 40%s community Logo where this project originated from.
-- The Case was designed and optimized for CNC milling, but is also 3D printable. A CNC'd case has not been prototyped before.
-- If interest persist I do want to run a little Groupbuy eventually. 
+- Silicone bumper feet cutout on the bottom
+- 0° typing angle
+- Features the 40%s community Logo where this project originated from
+- The Case was designed and optimized for CNC milling, but is also 3D printable. A CNC'd case has not been prototyped before
+- If interest persist a small Groupbuy may be held eventually
 
 ## License and Disclaimer
 
