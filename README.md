@@ -18,7 +18,7 @@ Based on the mathematical packing problem: how can you fit a certain amount of u
 - Silicone bumper feet cutout on the bottom
 - 0° typing angle
 - Features the 40%s community Logo where this project originated from
-- The PCB has been prototyped by JLCPCB and confirmed to work using the "SP17 PCB.zip" in [production](SP17%PCB/production)
+- The PCB has been prototyped by JLCPCB and confirmed to work using the "SP17 PCB.zip" in [production](SP17%20PCB/production)
 - The Case was designed and optimized for CNC milling, but is also 3D printable. A CNC'd case has not been prototyped before
 - If interest persist a small Groupbuy may be held eventually
 
